@@ -1,0 +1,12 @@
+﻿Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__closesocket@4，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__connect@12，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__recv@16，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__send@16，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__shutdown@8，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__socket@12，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__WSAStartup@8，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__WSACleanup@0，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__WSAGetLastError@0，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__getaddrinfo@16，函数 _main 中引用了该符号
+Clientdemo.obj : error LNK2019: 无法解析的外部符号 __imp__freeaddrinfo@4，函数 _main 中引用了该符号
+D:\tcptx\Clientdemo\Debug\Clientdemo.exe : fatal error LNK1120: 11 个无法解析的外部命令
